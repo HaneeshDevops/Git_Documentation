@@ -22,4 +22,9 @@ git branch
 '''
 git remote add <url>
 '''
-# That's it now you can modify the files locally & after dont forget to add & commit the changes . you can start pushing & pulling
+## That's it now you can modify the files locally & after dont forget to add & commit the changes . you can start pushing & pulling
+
+## git command to add local branch to remote repo
+```
+git push --set-upstream origin master2
+```
