@@ -29,6 +29,6 @@ git remote add <url>
 git push --set-upstream origin master2
 ```
 ## git command to add remote repo to  local branch 
-``
+```
 git pull origin master
 ```
