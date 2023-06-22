@@ -85,4 +85,15 @@ git log
 ```
 git cherry-pick
 ```
-
+##  Git command that allows you to create, list, and manage tags in Git. Tags are used to mark specific points in your Git history, such as releases or significant milestones.
+```
+git tag
+```
+##  Git command that shows the differences between two points in your Git history. It can be used to compare changes between commits, branches, or individual files.
+```
+git diff
+```
+##  Git command that  is used to configure Git settings. It allows you to set your name, email, preferred editor, and other options that influence your Git workflow.
+```
+git config
+```
