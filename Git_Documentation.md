@@ -1,5 +1,10 @@
 # Git_Documentation
 
+```
+git pull origin master --allow-unrelated-histories
+
+```
+
 ## This command initializes a new Git repository in the current directory. It sets up the necessary Git data structures and creates a hidden .git folder where Git will store its files and metadata
 ```sh
 git init
